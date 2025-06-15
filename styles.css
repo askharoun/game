@@ -1,0 +1,6 @@
+html,body{margin:0;padding:0;height:100%;overflow:hidden;font-family:sans-serif;background:#fafafa;color:#222}
+.dark{background:#111;color:#eee}
+#game{display:block;width:100%;height:100%}
+#ui{position:absolute;top:10px;left:10px;z-index:10}
+#scoreboard{font-size:1.5em;margin-bottom:5px}
+button,select{margin-right:5px}
